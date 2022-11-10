@@ -31,6 +31,8 @@
   background-repeat: no-repeat;
 }
 
+/*TODO: fix the gap on the right side */
+
 .logo {
   height: auto;
   background-color: rgba(0, 0, 0, 0.7);
