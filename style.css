@@ -26,7 +26,7 @@
 
 .picture {
   background-image: url(resources/bg_image.jpg);
-  background-position: left;
+  background-position: center;
   background-size: 60vw;
   background-repeat: no-repeat;
 }
@@ -59,7 +59,6 @@ h1 {
   display: flex;
   flex-flow: column nowrap;
   justify-content: center;
-  background-size: 100%;
   padding-top: 10px;
 }
 
