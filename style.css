@@ -28,10 +28,8 @@
   background-image: url(resources/bg_image.jpg);
   background-position: center;
   background-size: 60vw;
-  background-repeat: no-repeat;
+  flex: 0.7;
 }
-
-/*TODO: fix the gap on the right side */
 
 .logo {
   height: auto;
@@ -62,6 +60,7 @@ h1 {
   flex-flow: column nowrap;
   justify-content: center;
   padding-top: 10px;
+  flex: 1;
 }
 
 .left {
