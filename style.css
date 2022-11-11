@@ -43,7 +43,7 @@
 }
 
 h1 {
-  color: white;
+  color: var(--color);
 }
 
 .odin {
@@ -93,9 +93,9 @@ h1 {
   display: flex;
   flex-flow: column wrap;
   width: 40%;
-  font-size: 0.7rem;
+  font-size: 1em;
   text-transform: uppercase;
-  opacity: 50%;
+  opacity: 60%;
 }
 
 .form-title {
